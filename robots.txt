@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ullabladen-rgb.github.io/indian420-com-docs/sitemap.xml
